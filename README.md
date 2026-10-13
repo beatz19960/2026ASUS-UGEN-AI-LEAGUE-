@@ -30,5 +30,4 @@ Upon advancing to Stage II and receiving the **ASUS UGen300-USB-8G** hardware:
 2. Develop the host Python application incorporating OpenCV and HailoRT C++/Python API over the USB 3.1 Gen2 interface.
 3. Conduct local performance benchmarks (FPS, inference latency, host CPU utilization, and thermal/power efficiency).
 
-## 📄 License
-This project is licensed under the MIT License - see below for details:
+
