@@ -121,7 +121,7 @@ These are planning goals. Measured results will replace this table with a benchm
 ├── docs/        Stage I proposal deck (PDF)
 ├── models/      ONNX and Hailo-compiled (.hef) models (Stage II)
 ├── src/         Python application: HailoRT inference, rule engine, dashboard (Stage II)
-├── data_prep/   Scripts to download and format PPE datasets
+├── data_prep/   Dataset plan, class mapping and licenses (scripts added in Stage II)
 └── README.md
 ```
 
